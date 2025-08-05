@@ -52,12 +52,13 @@ yesButton.addEventListener("click", function() {
         <div class="yes-screen">
             <h1 class="yes-text">以后就是你的贴心小跟班，指东绝不往西</h1>
             // <img src="image/yaobai.gif" alt="拥抱" class="yes-image">
-            <img src="wuwu.gif" alt="拥抱" class="yes-image">
+            <img src="wuwu.gif" alt="修改" class="yes-image">
         </div>
     `;
 
     document.body.style.overflow = "hidden";
 
 });
+
 
 
